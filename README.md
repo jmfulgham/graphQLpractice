@@ -1,6 +1,8 @@
 GraphQL Workshop - We Rise
 ==========
 
+Code along GraphQL workshop with Eve Porcello. 
+
 ## GraphQL Resources
 
 Here are some resources to help you in your journey with GraphQL!
